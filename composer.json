@@ -1,0 +1,15 @@
+{
+    "name": "matleyx/ci4-FPDF",
+    "description": "A short description of what your package does",
+    "license": "MIT",
+    "require": {
+        "php": "^8.0",
+        "ext-zlib": "*",
+        "ext-gd": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Matleyx\\CI4FPDF\\": "src"
+        }
+    }
+}
