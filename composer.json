@@ -1,5 +1,5 @@
 {
-    "name": "matleyx/ci4-FPDF",
+    "name": "matleyx/ci4-fpdf",
     "description": "A short description of what your package does",
     "license": "MIT",
     "require": {
