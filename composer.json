@@ -9,7 +9,7 @@
     },
     "autoload": {        
         "classmap": [
-            "Libraries\FPDF\fpdf.php"
+            "Libraries/FPDF/fpdf.php"
         ],
         "psr-4": {
             "Matleyx\\CI4FPDF\\": "src"
