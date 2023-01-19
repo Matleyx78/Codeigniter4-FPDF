@@ -7,7 +7,10 @@
         "ext-zlib": "*",
         "ext-gd": "*"
     },
-    "autoload": {
+    "autoload": {        
+        "classmap": [
+            "fpdf.php"
+        ]
         "psr-4": {
             "Matleyx\\CI4FPDF\\": "src"
         }
