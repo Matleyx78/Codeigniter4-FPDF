@@ -1,8 +1,8 @@
 <?php
 namespace Matleyx\CI4FPDF\Libraries;
-use Matleyx\CI4FPDF\Libraries\FPDF;
+use Matleyx\CI4FPDF\Libraries\fpdf;
  
-class Mtxfpdf extends FPDF {
+class Doc_type_a extends fpdf {
         
     public function __construct() 
         {
