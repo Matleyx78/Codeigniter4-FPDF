@@ -14,7 +14,7 @@ class Doc_type_a extends fpdf {
             $this->SetLeftMargin(15);
             $this->SetRightMargin(15);
             $this->Ln(15);
-            $this->Image('img/geal.png',65,10,0,0);
+            //$this->Image('img/test.png',65,10,0,0);
             $this->SetFont('Arial','B',16);
             $this->Ln(5);
         }
