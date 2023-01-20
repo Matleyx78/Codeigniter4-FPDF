@@ -2,7 +2,7 @@
 namespace Matleyx\CI4FPDF\Libraries;
 use Matleyx\CI4FPDF\Libraries\FPDF;
  
-class Mtx_fpdf extends FPDF {
+class Mtxfpdf extends FPDF {
         
     public function __construct() 
         {
